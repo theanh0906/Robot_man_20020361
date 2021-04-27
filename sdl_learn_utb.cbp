@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="sdl_learn_utb" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/sdl_learn_utb" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/sdl_learn_utb" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="BaseObject.cpp" />
+		<Unit filename="BaseObject.h" />
+		<Unit filename="BossObject.cpp" />
+		<Unit filename="BossObject.h" />
+		<Unit filename="BulletObject.cpp" />
+		<Unit filename="BulletObject.h" />
+		<Unit filename="CheckBossHp.cpp" />
+		<Unit filename="CheckBossHp.h" />
+		<Unit filename="CheckCollision.cpp" />
+		<Unit filename="CheckCollision.h" />
+		<Unit filename="ExplosionObject.cpp" />
+		<Unit filename="ExplosionObject.h" />
+		<Unit filename="GameMap.cpp" />
+		<Unit filename="GameMap.h" />
+		<Unit filename="ImpTimer.cpp" />
+		<Unit filename="ImpTimer.h" />
+		<Unit filename="InitThreats.cpp" />
+		<Unit filename="InitThreats.h" />
+		<Unit filename="Menu.cpp" />
+		<Unit filename="Menu.h" />
+		<Unit filename="PlayerCoin.cpp" />
+		<Unit filename="PlayerCoin.h" />
+		<Unit filename="PlayerHealth.cpp" />
+		<Unit filename="PlayerHealth.h" />
+		<Unit filename="PlayerObject.cpp" />
+		<Unit filename="PlayerObject.h" />
+		<Unit filename="ShowText.cpp" />
+		<Unit filename="ShowText.h" />
+		<Unit filename="TextObject.cpp" />
+		<Unit filename="TextObject.h" />
+		<Unit filename="ThreatObject.cpp" />
+		<Unit filename="ThreatObject.h" />
+		<Unit filename="draw.cpp" />
+		<Unit filename="draw.h" />
+		<Unit filename="init.cpp" />
+		<Unit filename="init.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

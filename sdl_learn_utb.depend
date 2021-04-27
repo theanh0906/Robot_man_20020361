@@ -1,0 +1,563 @@
+# depslib dependency file v1.0
+1615148273 source:d:\learn_sdl\sdl_learn_utb\init.cpp
+	"init.h"
+
+1615145300 d:\learn_sdl\sdl_learn_utb\init.h
+	<windows.h>
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<string>
+	<cmath>
+	<math.h>
+	<cstdlib>
+	<cstring>
+	<stdio.h>
+	<fstream>
+	<vector>
+
+1615238737 source:d:\learn_sdl\sdl_learn_utb\main.cpp
+	"init.h"
+	"BaseObject.h"
+	"game_map.h"
+	"PlayerObject.h"
+	"ImpTimer.h"
+	"ThreatObject.h"
+
+1615148273 source:d:\learn_sdl\sdl_learn_utb\baseobject.cpp
+	"BaseObject.h"
+
+1615148273 d:\learn_sdl\sdl_learn_utb\baseobject.h
+	"init.h"
+
+1614346920 source:d:\learn_sdl\sdl_learn_utb\game_map.cpp
+	"game_map.h"
+
+1614424824 d:\learn_sdl\sdl_learn_utb\game_map.h
+	"init.h"
+	"BaseObject.h"
+
+1615148451 source:d:\learn_sdl\sdl_learn_utb\playerobject.cpp
+	"PlayerObject.h"
+
+1615148274 d:\learn_sdl\sdl_learn_utb\playerobject.h
+	"init.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1614346021 source:d:\learn_sdl\sdl_learn_utb\imptimer.cpp
+	"ImpTimer.h"
+
+1614306434 d:\learn_sdl\sdl_learn_utb\imptimer.h
+	"init.h"
+	"BaseObject.h"
+	"game_map.h"
+	"PlayerObject.h"
+
+1615148273 d:\learn_sdl\sdl_learn_utb\bulletobject.h
+	"init.h"
+	"BaseObject.h"
+
+1615148308 source:d:\learn_sdl\sdl_learn_utb\bulletobject.cpp
+	"BulletObject.h"
+
+1615148834 source:d:\learn_sdl\sdl_learn_utb\threatobject.cpp
+	"ThreatObject.h"
+
+1615106061 d:\learn_sdl\sdl_learn_utb\threatobject.h
+	"init.h"
+	"BaseObject.h"
+	"game_map.h"
+	"BulletObject.h"
+
+1615148273 source:d:\game_sdl\sdl_learn_utb\baseobject.cpp
+	"BaseObject.h"
+
+1615287191 d:\game_sdl\sdl_learn_utb\baseobject.h
+	"init.h"
+
+1615525350 d:\game_sdl\sdl_learn_utb\init.h
+	<windows.h>
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<string>
+	<cmath>
+	<math.h>
+	<cstdlib>
+	<cstring>
+	<stdio.h>
+	<fstream>
+	<vector>
+
+1615148308 source:d:\game_sdl\sdl_learn_utb\bulletobject.cpp
+	"BulletObject.h"
+
+1615148273 d:\game_sdl\sdl_learn_utb\bulletobject.h
+	"init.h"
+	"BaseObject.h"
+
+1615287191 source:d:\game_sdl\sdl_learn_utb\game_map.cpp
+	"game_map.h"
+
+1614424824 d:\game_sdl\sdl_learn_utb\game_map.h
+	"init.h"
+	"BaseObject.h"
+
+1614346021 source:d:\game_sdl\sdl_learn_utb\imptimer.cpp
+	"ImpTimer.h"
+
+1614306434 d:\game_sdl\sdl_learn_utb\imptimer.h
+	"init.h"
+	"BaseObject.h"
+	"game_map.h"
+	"PlayerObject.h"
+
+1615373632 d:\game_sdl\sdl_learn_utb\playerobject.h
+	"init.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1615525303 source:d:\game_sdl\sdl_learn_utb\init.cpp
+	"init.h"
+
+1615546421 source:d:\game_sdl\sdl_learn_utb\main.cpp
+	"init.h"
+	"BaseObject.h"
+	"game_map.h"
+	"PlayerObject.h"
+	"ImpTimer.h"
+	"ThreatObject.h"
+	"ExplosionObject.h"
+	"TextObject.h"
+	"PlayerHealth.h"
+	"PlayerCoin.h"
+
+1615240233 d:\game_sdl\sdl_learn_utb\threatobject.h
+	"init.h"
+	"BaseObject.h"
+	"game_map.h"
+	"BulletObject.h"
+
+1615276717 source:d:\game_sdl\sdl_learn_utb\playerobject.cpp
+	"PlayerObject.h"
+
+1615526143 source:d:\game_sdl\sdl_learn_utb\threatobject.cpp
+	"ThreatObject.h"
+
+1615241829 source:d:\game_sdl\sdl_learn_utb\explosionobject.cpp
+	"ExplosionObject.h"
+
+1615241829 d:\game_sdl\sdl_learn_utb\explosionobject.h
+	"init.h"
+	"BaseObject.h"
+
+1615386550 source:d:\game_sdl\sdl_learn_utb\textobject.cpp
+	"TextObject.h"
+
+1615385624 d:\game_sdl\sdl_learn_utb\textobject.h
+	"init.h"
+
+1615538276 source:d:\game_sdl\sdl_learn_utb\playerhealth.cpp
+	"PlayerHealth.h"
+
+1615538285 d:\game_sdl\sdl_learn_utb\playerhealth.h
+	"init.h"
+	"BaseObject.h"
+	"PlayerObject.h"
+
+1615540031 d:\game_sdl\sdl_learn_utb\playercoin.h
+	"init.h"
+	"BaseObject.h"
+
+1615540160 source:d:\game_sdl\sdl_learn_utb\playercoin.cpp
+	"PlayerCoin.h"
+
+1619433011 source:d:\sdl_temp\sdl_learn_utb\baseobject.cpp
+	"BaseObject.h"
+
+1619433011 d:\sdl_temp\sdl_learn_utb\baseobject.h
+	"init.h"
+
+1619365638 d:\sdl_temp\sdl_learn_utb\init.h
+	<windows.h>
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<string>
+	<cmath>
+	<math.h>
+	<cstdlib>
+	<cstring>
+	<stdio.h>
+	<fstream>
+	<vector>
+	<time.h>
+
+1619438879 source:d:\sdl_temp\sdl_learn_utb\bulletobject.cpp
+	"BulletObject.h"
+
+1619438758 d:\sdl_temp\sdl_learn_utb\bulletobject.h
+	"init.h"
+	"BaseObject.h"
+
+1615909141 source:d:\sdl_temp\sdl_learn_utb\explosionobject.cpp
+	"ExplosionObject.h"
+
+1619494251 d:\sdl_temp\sdl_learn_utb\explosionobject.h
+	"init.h"
+	"BaseObject.h"
+
+1615287191 source:d:\sdl_temp\sdl_learn_utb\game_map.cpp
+	"game_map.h"
+
+1614424824 d:\sdl_temp\sdl_learn_utb\game_map.h
+	"init.h"
+	"BaseObject.h"
+
+1619056369 source:d:\sdl_temp\sdl_learn_utb\imptimer.cpp
+	"ImpTimer.h"
+
+1619056384 d:\sdl_temp\sdl_learn_utb\imptimer.h
+	"init.h"
+	"BaseObject.h"
+	"GameMap.h"
+	"PlayerObject.h"
+
+1619435662 d:\sdl_temp\sdl_learn_utb\playerobject.h
+	"init.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1619518431 source:d:\sdl_temp\sdl_learn_utb\playerobject.cpp
+	"PlayerObject.h"
+
+1619494636 source:d:\sdl_temp\sdl_learn_utb\textobject.cpp
+	"TextObject.h"
+
+1619345369 d:\sdl_temp\sdl_learn_utb\textobject.h
+	"init.h"
+
+1619494251 source:d:\sdl_temp\sdl_learn_utb\threatobject.cpp
+	"ThreatObject.h"
+
+1619494299 d:\sdl_temp\sdl_learn_utb\threatobject.h
+	"init.h"
+	"BaseObject.h"
+	"GameMap.h"
+	"BulletObject.h"
+
+1619361703 source:d:\sdl_temp\sdl_learn_utb\init.cpp
+	"init.h"
+
+1619520033 source:d:\sdl_temp\sdl_learn_utb\main.cpp
+	"init.h"
+	"BaseObject.h"
+	"GameMap.h"
+	"PlayerObject.h"
+	"BulletObject.h"
+	"ThreatObject.h"
+	"InitThreats.h"
+	"BossObject.h"
+	"CheckCollision.h"
+	"ImpTimer.h"
+	"ExplosionObject.h"
+	"TextObject.h"
+	"PlayerHealth.h"
+	"PlayerCoin.h"
+	"ShowText.h"
+	"draw.h"
+	"Menu.h"
+	"CheckBossHp.h"
+
+1615909141 d:\sdl_temp\sdl_learn_utb\playerhealth.h
+	"init.h"
+	"BaseObject.h"
+	"PlayerObject.h"
+
+1615909141 d:\sdl_temp\sdl_learn_utb\playercoin.h
+	"init.h"
+	"BaseObject.h"
+
+1619494251 source:d:\sdl_temp\sdl_learn_utb\playercoin.cpp
+	"PlayerCoin.h"
+
+1619494251 source:d:\sdl_temp\sdl_learn_utb\playerhealth.cpp
+	"PlayerHealth.h"
+
+1615662406 source:d:\sdl_temp\sdl_learn_utb\inittwo.cpp
+	"InitTwo.h"
+
+1615662406 d:\sdl_temp\sdl_learn_utb\inittwo.h
+	"init.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	"ThreatObject.h"
+
+1619494774 source:d:\sdl_temp\sdl_learn_utb\initthreats.cpp
+	"InitThreats.h"
+
+1619344561 d:\sdl_temp\sdl_learn_utb\initthreats.h
+	"init.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	"ThreatObject.h"
+	"BossObject.h"
+
+1618983256 d:\sdl_temp\sdl_learn_utb\initwindow.h
+
+1619361703 d:\sdl_temp\sdl_learn_utb\checkcollision.h
+	"init.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	"ThreatObject.h"
+	"PlayerObject.h"
+	"PlayerHealth.h"
+	"ExplosionObject.h"
+	"BossObject.h"
+	"CheckBossHp.h"
+	"Menu.h"
+
+1619518641 source:d:\sdl_temp\sdl_learn_utb\checkcollision.cpp
+	"CheckCollision.h"
+
+1619346423 d:\sdl_temp\sdl_learn_utb\showtext.h
+	"init.h"
+	"TextObject.h"
+	"PlayerCoin.h"
+	"PlayerHealth.h"
+	"PlayerObject.h"
+	"Menu.h"
+	"GameMap.h"
+
+1619347181 source:d:\sdl_temp\sdl_learn_utb\showtext.cpp
+	"ShowText.h"
+
+1615827034 d:\sdl_temp\sdl_learn_utb\gamemap.h
+	"init.h"
+	"BaseObject.h"
+
+1619365638 source:d:\sdl_temp\sdl_learn_utb\gamemap.cpp
+	"GameMap.h"
+
+1619494251 source:d:\sdl_temp\sdl_learn_utb\bossobject.cpp
+	"BossObject.h"
+
+1619494251 d:\sdl_temp\sdl_learn_utb\bossobject.h
+	"init.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1618720479 d:\sdl_temp\sdl_learn_utb\checkbosshp.h
+	"init.h"
+	"BaseObject.h"
+	"BossObject.h"
+
+1619494251 source:d:\sdl_temp\sdl_learn_utb\checkbosshp.cpp
+	"CheckBossHp.h"
+
+1619337043 source:d:\sdl_temp\sdl_learn_utb\draw.cpp
+	"draw.h"
+
+1618928565 d:\sdl_temp\sdl_learn_utb\draw.h
+	"init.h"
+
+1619335888 d:\sdl_temp\sdl_learn_utb\menu.h
+	"init.h"
+	"BaseObject.h"
+	"InitWindow.h"
+	"ImpTimer.h"
+
+1619520021 source:d:\sdl_temp\sdl_learn_utb\menu.cpp
+	"Menu.h"
+
+1619433011 source:d:\sdl_temp\robot_man\baseobject.cpp
+	"BaseObject.h"
+
+1619433011 d:\sdl_temp\robot_man\baseobject.h
+	"init.h"
+
+1619365638 d:\sdl_temp\robot_man\init.h
+	<windows.h>
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<string>
+	<cmath>
+	<math.h>
+	<cstdlib>
+	<cstring>
+	<stdio.h>
+	<fstream>
+	<vector>
+	<time.h>
+
+1619494251 source:d:\sdl_temp\robot_man\bossobject.cpp
+	"BossObject.h"
+
+1619494251 d:\sdl_temp\robot_man\bossobject.h
+	"init.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1619438758 d:\sdl_temp\robot_man\bulletobject.h
+	"init.h"
+	"BaseObject.h"
+
+1619438879 source:d:\sdl_temp\robot_man\bulletobject.cpp
+	"BulletObject.h"
+
+1619494251 source:d:\sdl_temp\robot_man\checkbosshp.cpp
+	"CheckBossHp.h"
+
+1618720479 d:\sdl_temp\robot_man\checkbosshp.h
+	"init.h"
+	"BaseObject.h"
+	"BossObject.h"
+
+1619518641 source:d:\sdl_temp\robot_man\checkcollision.cpp
+	"CheckCollision.h"
+
+1619361703 d:\sdl_temp\robot_man\checkcollision.h
+	"init.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	"ThreatObject.h"
+	"PlayerObject.h"
+	"PlayerHealth.h"
+	"ExplosionObject.h"
+	"BossObject.h"
+	"CheckBossHp.h"
+	"Menu.h"
+
+1619494299 d:\sdl_temp\robot_man\threatobject.h
+	"init.h"
+	"BaseObject.h"
+	"GameMap.h"
+	"BulletObject.h"
+
+1615827034 d:\sdl_temp\robot_man\gamemap.h
+	"init.h"
+	"BaseObject.h"
+
+1619435662 d:\sdl_temp\robot_man\playerobject.h
+	"init.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1615909141 d:\sdl_temp\robot_man\playerhealth.h
+	"init.h"
+	"BaseObject.h"
+	"PlayerObject.h"
+
+1619494251 d:\sdl_temp\robot_man\explosionobject.h
+	"init.h"
+	"BaseObject.h"
+
+1619335888 d:\sdl_temp\robot_man\menu.h
+	"init.h"
+	"BaseObject.h"
+	"InitWindow.h"
+	"ImpTimer.h"
+
+1618983256 d:\sdl_temp\robot_man\initwindow.h
+
+1619056384 d:\sdl_temp\robot_man\imptimer.h
+	"init.h"
+	"BaseObject.h"
+	"GameMap.h"
+	"PlayerObject.h"
+
+1619337043 source:d:\sdl_temp\robot_man\draw.cpp
+	"draw.h"
+
+1618928565 d:\sdl_temp\robot_man\draw.h
+	"init.h"
+
+1615909141 source:d:\sdl_temp\robot_man\explosionobject.cpp
+	"ExplosionObject.h"
+
+1619365638 source:d:\sdl_temp\robot_man\gamemap.cpp
+	"GameMap.h"
+
+1619056369 source:d:\sdl_temp\robot_man\imptimer.cpp
+	"ImpTimer.h"
+
+1619361703 source:d:\sdl_temp\robot_man\init.cpp
+	"init.h"
+
+1619494774 source:d:\sdl_temp\robot_man\initthreats.cpp
+	"InitThreats.h"
+
+1619344561 d:\sdl_temp\robot_man\initthreats.h
+	"init.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	"ThreatObject.h"
+	"BossObject.h"
+
+1619520033 source:d:\sdl_temp\robot_man\main.cpp
+	"init.h"
+	"BaseObject.h"
+	"GameMap.h"
+	"PlayerObject.h"
+	"BulletObject.h"
+	"ThreatObject.h"
+	"InitThreats.h"
+	"BossObject.h"
+	"CheckCollision.h"
+	"ImpTimer.h"
+	"ExplosionObject.h"
+	"TextObject.h"
+	"PlayerHealth.h"
+	"PlayerCoin.h"
+	"ShowText.h"
+	"draw.h"
+	"Menu.h"
+	"CheckBossHp.h"
+
+1619345369 d:\sdl_temp\robot_man\textobject.h
+	"init.h"
+
+1615909141 d:\sdl_temp\robot_man\playercoin.h
+	"init.h"
+	"BaseObject.h"
+
+1619346423 d:\sdl_temp\robot_man\showtext.h
+	"init.h"
+	"TextObject.h"
+	"PlayerCoin.h"
+	"PlayerHealth.h"
+	"PlayerObject.h"
+	"Menu.h"
+	"GameMap.h"
+
+1619520021 source:d:\sdl_temp\robot_man\menu.cpp
+	"Menu.h"
+
+1619494251 source:d:\sdl_temp\robot_man\playercoin.cpp
+	"PlayerCoin.h"
+
+1619494251 source:d:\sdl_temp\robot_man\playerhealth.cpp
+	"PlayerHealth.h"
+
+1619520635 source:d:\sdl_temp\robot_man\playerobject.cpp
+	"PlayerObject.h"
+
+1619347181 source:d:\sdl_temp\robot_man\showtext.cpp
+	"ShowText.h"
+
+1619494636 source:d:\sdl_temp\robot_man\textobject.cpp
+	"TextObject.h"
+
+1619494251 source:d:\sdl_temp\robot_man\threatobject.cpp
+	"ThreatObject.h"
+
